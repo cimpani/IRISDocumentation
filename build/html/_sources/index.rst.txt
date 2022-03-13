@@ -21,7 +21,7 @@ site will document how to use it to carry out radio astronomy workflows.
 
    signupIR
    cambridgehpc
+   singularity
    JobSub
    BENCHM
-   singularity
    rascilUC
