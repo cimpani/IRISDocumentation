@@ -3,8 +3,6 @@ Signing up for IRIS Resources
 =============================
 
 
-IRIS resources `What_is_IRIS <https://www.iris.ac.uk/>`__
-
 
 Signing up to Galahad
 ======================
