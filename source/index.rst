@@ -7,8 +7,10 @@
 Welcome to the documentation for IRIS Radio Astronomy
 =====================================================
 
-IRIS is UK national high-performance computing infrastructure and this
-site will document how to use it to carry out radio astronomy workflows.
+IRIS is a cooperative community creating digital research infrastructure to support STFC science. This
+site documents how to sign up for IRIS resources like IRIS (through certificate), Galahad, DIRAC/Safe, submit jobs on these resources and provides example Radio Astronomy workflows.
+
+ For more details about IRIS, we recommend `What_is_IRIS <https://www.iris.ac.uk/>`__
 
 .. note::
 
