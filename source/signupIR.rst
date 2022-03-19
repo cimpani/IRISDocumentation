@@ -139,7 +139,7 @@ Introduction
 
 .. note::
 
-  Before accessing IRIS through certificate, please make sure you have access to University of Manchester `VPN <https://www.itservices.manchester.ac.uk/ourservices/popular/vpn/>`_ . More details on `VPN - GlobalProtect <https://www.itservices.manchester.ac.uk/ourservices/catalogue/network-connectivity/vpn/>`_
+  Before accessing IRIS through certificate, please make sure you have access to University of Manchester `VPN <https://www.itservices.manchester.ac.uk/ourservices/popular/vpn/>`_ . More details on `VPN - GlobalProtect <https://www.itservices.manchester.ac.uk/ourservices/catalogue/network-connectivity/vpn/>`_ The home/working directories described in this documentation for install are from lofar machines, but DIRAC_UI ce be also installed on a Virtual Manchine (we recommend Scientific Linux)
 
 
 Get A Grid Certificate
