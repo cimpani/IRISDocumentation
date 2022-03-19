@@ -220,6 +220,7 @@ Singularity containers already built and used throughout this documentation can 
 #. RASCIL-fullN.img (RASCIL v1.9)
 #. casa-5.4.1.simg  (CASA v5.4.1)
 
+Any dataset can be accessed via **InputData** in a .jdl job submission. See `IRIS through certificate <https://irisdocumentation.readthedocs.io/en/latest/JobSub.html#iris-through-certificate>`_ for more details.
 
 Libraries
 =========
