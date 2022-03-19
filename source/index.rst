@@ -12,7 +12,9 @@ site documents how to sign up for `IRIS resources <https://irisdocumentation.rea
 
 For more details about IRIS, go to `What_is_IRIS <https://www.iris.ac.uk/>`__
 
+
 **IRIS grid nodes** in Manchester are 16 core CPU 1.5 TB RAM (13 machines) and 40 core CPU 3 TB RAM (one machine), and no GPU
+
 **Galahad** 16 core CPU 1.5 TB RAM 2x A100 GPU machines are funded by IRIS, 17 machines. 
 
 .. note::
