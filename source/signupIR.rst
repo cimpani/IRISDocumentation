@@ -9,6 +9,10 @@ Signing up to Galahad
 
 To get access to Galahad, please contact Anthony Holloway (email: anthony.holloway[at]manchester.ac.uk). A short introduction to Galahad will be provided (eg. 'home' and 'working' folders, accessing and loading available modules etc.) 
 
+.. note::
+Before accessing Galahad, please make sure you have access to University of Manchester `VPN <https://www.itservices.manchester.ac.uk/ourservices/popular/vpn/>`_ . More details on `VPN - GlobalProtect <https://www.itservices.manchester.ac.uk/ourservices/catalogue/network-connectivity/vpn/>`_
+
+
 
 Signing up for Dirac/SAFE
 ==========================
@@ -131,6 +135,9 @@ Introduction
 
 -  useful links  
 
+
+.. note::
+Before accessing IRIS through certificate, please make sure you have access to University of Manchester `VPN <https://www.itservices.manchester.ac.uk/ourservices/popular/vpn/>`_ . More details on `VPN - GlobalProtect <https://www.itservices.manchester.ac.uk/ourservices/catalogue/network-connectivity/vpn/>`_
 
 
 Get A Grid Certificate
