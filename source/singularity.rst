@@ -214,6 +214,11 @@ Note that for a singularity pull to work you must apply a tag to the uploaded fi
 Singularity containers
 =======================
 
+Singularity containers already built and used throughout this documentation can be found under the file catalog (FC) IRIS under FC:/skatelescope.eu/user/c/cimpan/rascil
+
+#. RASCIL-full1.img (RASCIL v1.5)
+#. RASCIL-fullN.img (RASCIL v1.9)
+#. casa-5.4.1.simg  (CASA v5.4.1)
 
 
 Libraries
