@@ -13,17 +13,17 @@ site documents how to sign up for `IRIS resources <https://irisdocumentation.rea
 For more details about IRIS, go to `What_is_IRIS <https://www.iris.ac.uk/>`__
 
 
-**IRIS grid nodes** in Manchester are 16 core CPU 1.5 TB RAM (13 machines) and 40 core CPU 3 TB RAM (one machine), and no GPU
+**IRIS grid nodes** in Manchester are 16 core CPU 1.5 TB RAM (13 machines) and 40 core CPU 3 TB RAM (one machine), and no GPU.
 
-**Galahad** 16 core CPU 1.5 TB RAM 2x A100 GPU machines are funded by IRIS, 17 machines. 
+**Galahad IRIS** are 16 core CPU 1.5 TB RAM 2x A100 GPU machines (17 machines). 
 
 .. note::
 
-  Recommendation to new starters to read through and follow steps: 
+  Recommendation to new starters to read through (steps): 
   
-  #. `Signing up for IRIS Resources <https://irisdocumentation.readthedocs.io/en/latest/signupIR.html>`_ for the resource of your choice: IRIS (through certificate), Galahad or DIRAC/Safe.
+  #. `Signing up for IRIS Resources <https://irisdocumentation.readthedocs.io/en/latest/signupIR.html>`_ - to sign up for the resource of your choice: IRIS (through certificate), Galahad or DIRAC/Safe.
   
-  #.  have a quick read through  `Before starting: useful tools, basic knowledge <https://irisdocumentation.readthedocs.io/en/latest/cambridgehpc.html>`_ and `Singularity: basic usage and containers <https://irisdocumentation.readthedocs.io/en/latest/singularity.html>`_
+  #.  Have a quick read through  `Before starting: useful tools, basic knowledge <https://irisdocumentation.readthedocs.io/en/latest/cambridgehpc.html>`_ and `Singularity: basic usage and containers <https://irisdocumentation.readthedocs.io/en/latest/singularity.html>`_ to see tools that can support you in creating jobs and scripts.
   
   #. `Job submission on IRIS Resources - Galahad, Dirac SAFE and IRIS(cert) <https://irisdocumentation.readthedocs.io/en/latest/JobSub.html>`_ to learn how to submit jobs on the IRIS resource you chose.
   
