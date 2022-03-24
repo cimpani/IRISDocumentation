@@ -11,7 +11,7 @@ To get access to Galahad, please contact Anthony Holloway (email: anthony.hollow
 
 .. note::
 
-  Before accessing Galahad, please make sure you have access to University of Manchester `VPN <https://www.itservices.manchester.ac.uk/ourservices/popular/vpn/>`_ . More details on `VPN - GlobalProtect <https://www.itservices.manchester.ac.uk/ourservices/catalogue/network-connectivity/vpn/>`_
+  Before accessing Galahad, please make sure you have access to University of Manchester `VPN <https://www.itservices.manchester.ac.uk/ourservices/popular/vpn/>`_ . More details on `VPN - GlobalProtect <https://www.itservices.manchester.ac.uk/ourservices/catalogue/network-connectivity/vpn/>`_ . Visitors are advised to contact anthony.holloway[at]manchester.ac.uk in order to get VPN access.
 
 
 
@@ -139,7 +139,8 @@ Introduction
 
 .. note::
 
-  Before accessing IRIS through certificate, please make sure you have access to University of Manchester `VPN <https://www.itservices.manchester.ac.uk/ourservices/popular/vpn/>`_ . More details on `VPN - GlobalProtect <https://www.itservices.manchester.ac.uk/ourservices/catalogue/network-connectivity/vpn/>`_ The home/working directories for DIRAC_UI install are from lofar machines, but DIRAC_UI can be also installed on a Virtual Manchine (we recommend Scientific Linux)
+  Before accessing IRIS through certificate, please make sure you have access to University of Manchester `VPN <https://www.itservices.manchester.ac.uk/ourservices/popular/vpn/>`_ . More details on `VPN - GlobalProtect <https://www.itservices.manchester.ac.uk/ourservices/catalogue/network-connectivity/vpn/>`_ . Visitors are advised to contact anthony.holloway[at]manchester.ac.uk in order to get VPN access.
+  The home/working directories for DIRAC_UI install are from lofar machines, but DIRAC_UI can be also installed on a Virtual Manchine (we recommend Scientific Linux)
 
 
 Get A Grid Certificate
