@@ -25,11 +25,11 @@ For more details about IRIS, go to `What_is_IRIS <https://www.iris.ac.uk/>`__
 
   Recommendation to new starters to read through (steps): 
   
-  #. `Signing up for IRIS Resources <https://irisdocumentation.readthedocs.io/en/latest/signupIR.html>`_ - to sign up for the resource of your choice: IRIS (through certificate), Galahad or DIRAC/Safe.
+  #. `Signing up for IRIS Resources <https://irisdocumentation.readthedocs.io/en/latest/signupIR.html>`_ - to sign up for the resource of your choice: IRIS (through certificate), Galahad or Dirac/SAFE.
   
   #.  Have a quick read through  `Before starting: useful tools, basic knowledge <https://irisdocumentation.readthedocs.io/en/latest/cambridgehpc.html>`_ and `Singularity: basic usage and containers <https://irisdocumentation.readthedocs.io/en/latest/singularity.html>`_ to see tools that can support you in creating jobs and scripts.
   
-  #. `Job submission on IRIS Resources - Galahad, Dirac SAFE and IRIS(cert) <https://irisdocumentation.readthedocs.io/en/latest/JobSub.html>`_ to learn how to submit jobs on the IRIS resource you chose.
+  #. `Job submission on IRIS Resources - Galahad, Dirac/SAFE and IRIS(cert) <https://irisdocumentation.readthedocs.io/en/latest/JobSub.html>`_ to learn how to submit jobs on the IRIS resource you chose.
   
   #. `Benchmarking processing performance and Parameterized jobs IRIS(cert) <https://irisdocumentation.readthedocs.io/en/latest/BENCHM.html>`_ it is about monitoring job performance on IRIS  grid nodes, using .jdl jobs. PrMON can also be used on slurm jobs on Galahad.
   
