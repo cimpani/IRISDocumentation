@@ -7,10 +7,7 @@
 Welcome to the documentation for IRIS Radio Astronomy
 =====================================================
 
-IRIS is a cooperative community creating digital research infrastructure to support STFC science. This site documents how to sign up for `IRIS resources <https://irisdocumentation.readthedocs.io/en/latest/signupIR.html>`__  like IRIS (through certificate), Galahad, Dirac/SAFE, how to submit jobs on these resources and provides example Radio Astronomy workflows.
-
-For more details about IRIS, go to `What_is_IRIS <https://www.iris.ac.uk/>`__
-
+`IRIS <https://www.iris.ac.uk/>`__ is a cooperative community creating digital research infrastructure to support STFC science. This site documents how to sign up for `IRIS resources <https://irisdocumentation.readthedocs.io/en/latest/signupIR.html>`__  like IRIS (through certificate), Galahad, Dirac/SAFE, how to submit jobs on these resources and provides example Radio Astronomy workflows.
 
 **IRIS grid nodes** in Manchester are 16 threads CPU 1.5 TB RAM (13 machines) and 40 threads CPU 3 TB RAM (one machine), and no GPU.
 
