@@ -7,8 +7,7 @@
 Welcome to the documentation for IRIS Radio Astronomy
 =====================================================
 
-IRIS is a cooperative community creating digital research infrastructure to support STFC science. This
-site documents how to sign up for `IRIS resources <https://irisdocumentation.readthedocs.io/en/latest/signupIR.html>`__  like IRIS (through certificate), Galahad, Dirac/SAFE, how to submit jobs on these resources and provides example Radio Astronomy workflows.
+IRIS is a cooperative community creating digital research infrastructure to support STFC science. This site documents how to sign up for `IRIS resources <https://irisdocumentation.readthedocs.io/en/latest/signupIR.html>`__  like IRIS (through certificate), Galahad, Dirac/SAFE, how to submit jobs on these resources and provides example Radio Astronomy workflows.
 
 For more details about IRIS, go to `What_is_IRIS <https://www.iris.ac.uk/>`__
 
@@ -17,7 +16,7 @@ For more details about IRIS, go to `What_is_IRIS <https://www.iris.ac.uk/>`__
 
 **Galahad IRIS** are 16 threads CPU 1.5 TB RAM 2x A100 GPU machines (17 machines) and 24 threads CPU 64 GB RAM 2x K20 GPU (21 machines, GPU's IRIS). Galahad also provides 24 threads CPU 64 GB RAM  2x A100 GPU and 16 threads CPU 1.5 TB RAM K20 CPU.
 
-**Recommended usage IRIS grid nodes(IRIS with certificate) vs. Galahad** Galahad can use nodes in exclusive mode and use all the available CPUs. Galahad provides GPUs access, while IRIS grid nodes do not. We are recommending Galahad while developing scripts, evaluating data, short and urgent jobs. The IRIS system can be used for mature code/pipelines, larger data and long term projects (where previously developments was done on laptops/desktops to run on local cluster, now development can be done on a local cluster in order to deploy on remote HPC clusters)
+**Recommended usage IRIS grid nodes(IRIS with certificate) vs. Galahad**. Galahad can use nodes in exclusive mode and use all the available CPUs. Galahad provides GPUs access, while IRIS grid nodes do not. We are recommending Galahad while developing scripts, evaluating data, short and urgent jobs. The IRIS system can be used for mature code/pipelines, larger data and long term projects (where previously development was done first on laptops/desktops to then run on local cluster, now development can be done on a local cluster in order to deploy on remote HPC clusters)
 
 **Dirac/SAFE** The `Cambridge CSD3 system <https://docs.hpc.cam.ac.uk/hpc/index.html>`_ is documented extensively on its own web pages.
 
@@ -31,7 +30,7 @@ For more details about IRIS, go to `What_is_IRIS <https://www.iris.ac.uk/>`__
   
   #. `Job submission on IRIS Resources - Galahad, Dirac/SAFE and IRIS(cert) <https://irisdocumentation.readthedocs.io/en/latest/JobSub.html>`_ to learn how to submit jobs on the IRIS resource you chose.
   
-  #. `Benchmarking processing performance and Parameterized jobs IRIS(cert) <https://irisdocumentation.readthedocs.io/en/latest/BENCHM.html>`_ it is about monitoring job performance on IRIS  grid nodes, using .jdl jobs. PrMON can also be used on slurm jobs on Galahad.
+  #. `Benchmarking processing performance and Parameterized jobs IRIS(cert) <https://irisdocumentation.readthedocs.io/en/latest/BENCHM.html>`_ it is about monitoring job performance on IRIS  grid nodes, using .jdl jobs. PrMON can also be used on Galahad.
   
   #. `Use-case workflows and datasets <https://irisdocumentation.readthedocs.io/en/latest/rascilUC.html>`_ are workflows and datasets that are saved to locations accessible to users that have already signed up for IRIS resources.
 
