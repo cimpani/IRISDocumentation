@@ -11,7 +11,7 @@ Welcome to the documentation for IRIS Radio Astronomy
 
 **IRIS grid nodes** in Manchester are 16 threads CPU 1.5 TB RAM (13 machines) and 40 threads CPU 3 TB RAM (one machine), and no GPU.
 
-**Galahad IRIS** are 16 threads CPU 1.5 TB RAM 2x A100 GPU machines (17 machines) and 24 threads CPU 64 GB RAM 2x K20 GPU (21 machines, GPU's IRIS). Galahad also provides 24 threads CPU 64 GB RAM  2x A100 GPU and 16 threads CPU 1.5 TB RAM K20 CPU.
+**Galahad IRIS** are 16 threads CPU 1.5 TB RAM 2x A100 GPU machines (17 machines) and 24 threads CPU 64 GB RAM 2x A100 GPU (21 machines). Galahad also provides 16 threads CPU 1.5 TB RAM K20 CPU(3 machines) and 24 threads CPU 64 GB RAM 2x K20 GPU (26 machines).
 
 **Recommended usage IRIS grid nodes(IRIS with certificate) vs. Galahad**. Galahad can use nodes in exclusive mode and use all the available CPUs. Galahad provides GPUs access, while IRIS grid nodes do not. We are recommending Galahad while developing scripts, evaluating data, short and urgent jobs. The IRIS system can be used for mature code/pipelines, larger data and long term projects (where previously development was done first on laptops/desktops to then run on local cluster, now development can be done on a local cluster in order to deploy on remote HPC clusters)
 
